@@ -20,6 +20,10 @@ import { Login } from './pages/Login.jsx'
 import { Signup } from './pages/Signup.jsx'
 
 
+
+console.log("hello")
+
+
 export function RootCmp() {
     return (
         <div className="main-container">
